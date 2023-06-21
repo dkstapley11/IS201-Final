@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: large;
+}
+
+.title {background-color: black; color: white;}
+
+.boss {font-weight: bold; font-size: larger;}
+
+.common {background-color: black;}
+
+.anchor {color: white;}
+
+a:visited {color: red;}
+
+.unrelated {font-style: italic; font-weight: bold; background-color: beige; color: black;}
+
+.mainblock {padding: 10px;}
